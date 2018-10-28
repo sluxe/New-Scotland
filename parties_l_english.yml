@@ -514,6 +514,7 @@
  SCO_fascism_party:0 "SUF"
  SCO_fascism_party_long:0 "Scottish Union of Fascists"
  SCO_communism_party:0 "Scottish Socialist Party"
+ SCO_communism_party_long:0 "Scottish Socialist Party" 
  SCO_democratic_party:0 "UP"
  SCO_democratic_party_long:0 "Unionist Party"
  SCO_neutrality_party:0 "SNP"
