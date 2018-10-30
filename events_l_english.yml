@@ -3096,3 +3096,17 @@
  canada_vanilla.1.desc:0 "Around a million Canadian women entered the workforce during the Second World War. They were represented in the national media by a symbol of resilience and patriotism: Veronica Foster, popularly known as Ronnie, the Bren Gun Girl. She worked for John Inglis and Company at a Toronto gun factory while her three brothers fought overseas. The posters and short movies featuring her, and women like her, participating in the war effort likely inspired the better-known media campaign around 'Rosie the Riveter', after America's entry into the war."
  canada_vanilla.1.opt:0 "'Factory work is no more difficult than housework', as the newsreels say."
  
+ scotland.1.t:0 "Restoration of the Clan System?"
+ scotland.1.d:0 "Since the Jacobite uprisings of 1745, the Scottish clan system has been outlawed, and cheifs made a purely ceremonial role. Now, a government proposal has been brought forward suggesting the re-instatement of the clan system in Scotland. By bringing back political importance to these roles, we will win over the loyalty of many importent men."
+ scotland.1.a:0 "The Senate votes Aye!" 
+ scotland.1.b:0 "The Senate votes Nay!" 
+ scotland.2.t:0 "A colonial governate in Canada?"
+ scotland.2.d:0 "Ever since brave Scottish pioneers and Canadian loyalists declared in favour of the new scottish government in Nova Scotia, Canada, the question remains about what to do with it. One camp suggests to set up a dominion there, while the other advocates for full annexation."
+ scotland.2.a:0 "The Senate votes Aye!" 
+ scotland.2.b:0 "The Senate votes Nay!" 
+ scotland.3.t:0 "A Scottish Monarchy?"
+ scotland.3.d:0 "Recently, there has been a large movement advocating for the restoration of some sort of monarchy in Scotland. However, as the movement's legitimacy grows, a question arises. Which line should become the true heirs? The Jacobites and the Stuart line under the German Rupprecht, or, perhaps another, more local claimant... "
+ scotland.3.a:0 "A Stuart for Scotland!" 
+ scotland.3.b:0 "A Baliol for Scotland!" 
+ scotland.3.c:0 "Monarchism? The whole reason we broke away was to be rid of a king!" 
+
